@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A Data Scientist from India</h3>
+<h1 align="center">Hi 👋, I am Prabin Raj Shrestha</h1>
+<h3 align="center">A Data Scientist/Data Engineer/Data Analyst from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prbn&label=Profile%20views&color=0e75b6&style=flat" alt="Prbn" /> </p>
 
